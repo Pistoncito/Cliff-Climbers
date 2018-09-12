@@ -18,10 +18,7 @@
         var image = document.getElementById("source");
 
        
-           ctx.fillStyle= "rgb(100,100,0)";
-           ctx.fillRect(0,0, 300,227);
-           
-     // ctx.drawImage(image, 33, 71, 104, 124, 21, 20, 87, 104);
+     ctx.drawImage(image, 33, 71, 104, 124, 21, 20, 87, 104);
        </script>
     </body>
 </html>
